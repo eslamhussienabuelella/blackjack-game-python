@@ -39,7 +39,7 @@ The project focuses on **game logic, rule enforcement, and clean functional desi
 
 ```bash
 python src/blackjack.py
-
+```
 ---
 
 📌 Design Highlights
@@ -51,6 +51,8 @@ Clear separation between player and dealer logic
 Deterministic dealer policy
 
 Edge-case handling for Blackjack and busts
+
+---
 
 🚀 Future Improvements
 
