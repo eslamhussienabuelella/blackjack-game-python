@@ -63,6 +63,13 @@ python src/blackjack.py
 - Edge-case handling for Blackjack and busts
 
 ---
+  
+## ⚠️ Known Limitations
+- Player Ace values are selected via user input.
+- Dealer Ace handling follows a simplified rule-based approach.
+- Console-based interaction (no GUI).
+  
+---
 
 🚀 Future Improvements
 
