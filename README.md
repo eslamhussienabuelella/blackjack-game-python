@@ -12,6 +12,16 @@ The project focuses on **game logic, rule enforcement, and clean functional desi
 - Apply deterministic dealer behavior (hit until 17)
 
 ---
+## 📁 Repository Structure
+blackjack-game-python/
+│
+├── src/
+│   └── blackjack.py
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+---
 
 ## 🧠 Game Rules Implemented
 - Standard 52-card deck (no jokers)
