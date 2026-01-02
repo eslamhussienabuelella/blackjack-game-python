@@ -44,24 +44,24 @@ python src/blackjack.py
 
 📌 Design Highlights
 
-Modular functions for deck handling and scoring
+- Modular functions for deck handling and scoring
 
-Clear separation between player and dealer logic
+- Clear separation between player and dealer logic
 
-Deterministic dealer policy
+- Deterministic dealer policy
 
-Edge-case handling for Blackjack and busts
+- Edge-case handling for Blackjack and busts
 
 ---
 
 🚀 Future Improvements
 
-Betting system and player balance
+- Betting system and player balance
 
-Multiple rounds
+- Multiple rounds
 
-Automated Ace strategy only (remove user input)
+- Automated Ace strategy only (remove user input)
 
-Unit tests for scoring logic
+- Unit tests for scoring logic
 
-Simple GUI (Tkinter or Pygame)
+- Simple GUI (Tkinter or Pygame)
