@@ -52,7 +52,7 @@ python src/blackjack.py
 ```
 ---
 
-📌 Design Highlights
+## 📌 Design Highlights
 
 - Modular functions for deck handling and scoring
 
@@ -71,7 +71,7 @@ python src/blackjack.py
   
 ---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Betting system and player balance
 
