@@ -26,7 +26,7 @@ blackjack-game-python/
 ## 🧠 Game Rules Implemented
 - Standard 52-card deck (no jokers)
 - Face cards (J, Q, K) count as 10
-- Aces count as 1 or 11 (auto-optimized)
+- Aces count as 1 or 11 (auto-optimised for Dealer only)
 - Player can **Hit** or **Stand**
 - Dealer hits until score ≥ 17
 - Automatic win/loss detection:
@@ -38,10 +38,10 @@ blackjack-game-python/
 
 ## 🛠️ How the Game Works
 1. Deck is created and shuffled
-2. Initial cards are dealt to player and dealer
+2. Initial cards are dealt to the player and the dealer
 3. Player chooses to hit or stand
 4. Dealer reveals cards and follows dealer policy
-5. Winner is determined
+5. The winner is determined
 
 ---
 
