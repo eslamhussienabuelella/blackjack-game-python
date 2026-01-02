@@ -13,7 +13,7 @@ The project focuses on **game logic, rule enforcement, and clean functional desi
 
 ---
 ## 📁 Repository Structure
-blackjack-game-python/
+blackjack-game-python/  
 │  
 ├── src/  
 │   └── blackjack.py  
