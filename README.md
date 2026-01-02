@@ -14,12 +14,12 @@ The project focuses on **game logic, rule enforcement, and clean functional desi
 ---
 ## 📁 Repository Structure
 blackjack-game-python/
-│
-├── src/
-│   └── blackjack.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+│  
+├── src/  
+│   └── blackjack.py  
+├── README.md  
+├── requirements.txt  
+└── .gitignore  
 
 ---
 
