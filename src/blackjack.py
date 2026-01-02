@@ -58,7 +58,7 @@ def score_calculator(hand_cards, role):
         score_evaluation = "Black Jack"
 # Otherwise, return the current score
     else:
-        score_evaluation = "Niether Bust nor Black Jack"    
+        score_evaluation = "Neither Bust nor Black Jack"    
     return (total_score, score_evaluation)
 
 # defining hit logic for dealer/player
@@ -193,4 +193,5 @@ if __name__ == "__main__":
         f"Player won {player_wins} times\n"
         f"Game was tied {ties} times"
     )
+
 
